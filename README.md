@@ -25,3 +25,16 @@ Follow these steps to run the BOB platform locally on your machine.
 ```bash
 git clone [https://github.com/shubhodeepdutta21/GREY.git](https://github.com/shubhodeepdutta21/GREY.git)
 cd BOB
+```
+## 🗺️ Future Roadmap
+
+* **Hyper-Local Component Sourcing:** A feature to help students trade, share, or borrow spare parts directly with peers on their own campus.
+* **Peer-to-Peer Debugging Forums:** A community space where users can post photos of their messy wiring or broken code to get instant help from the community.
+* **Tech Club Integrations:** Dedicated dashboard portals for college societies to manage their shared hardware inventory and host local hackathons.
+* **Component Alternative Engine:** If a user lacks a specific sensor, the AI will suggest cheaper, alternative ways to achieve the exact same result using basic electronics.
+
+## 🤝 Contributing
+Contributions are always welcome! Whether it's adding new community projects to the database or improving the AI prompts, feel free to open a Pull Request.
+
+---
+*Built with ❤️ for the makers of tomorrow.*
